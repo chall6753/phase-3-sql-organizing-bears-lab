@@ -1,0 +1,1 @@
+CREATE TABLE bears(id INTEGER PRIMARY KEY AUTOINCREMENT, name TEXT, age INTEGER, sex INTEGER, color TEXT, temperament TEXT,alive boolean);
